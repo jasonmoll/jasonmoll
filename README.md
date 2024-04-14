@@ -3,7 +3,7 @@
 ### Hi there 👋
 - 🤯 I lead the Strategic Hardware Planning team at Oracle Cloud Infrastructure (OCI)
 - 🔭 I analyze and forecast demand for cloud services
-- 📚 I use R and Power Query to automate and scale a lot of routine analysis
+- 📚 I use R and Power Query to automate and scale routine analysis
 
 <!--
 **jasonmoll/jasonmoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
