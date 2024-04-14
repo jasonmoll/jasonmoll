@@ -1,3 +1,5 @@
+![CloudSellcomCloudGIF](https://github.com/jasonmoll/jasonmoll/assets/5600684/582d70d0-4751-4249-a09e-1c0328861150)
+
 ### Hi there 👋
 - 🤯 I lead the Strategic Hardware Planning team at Oracle Cloud Infrastructure (OCI)
 - 🔭 I analyze and forecast demand for cloud services
