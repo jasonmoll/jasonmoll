@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🔭 I’m currently working on analysis automation using Power Query, and some time series forecasting in R
 
 <!--
 **jasonmoll/jasonmoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
